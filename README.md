@@ -1,6 +1,6 @@
 # 💻 Coding Exemples by lele
 
-Este cantinho foi criado com a intenção de apresentar as inúmeras possibilidades que a tecnologia oferece nos dias de hoje. O objetivo é servir como um espaço de apoio para futuros desenvolvedores, oferecendo uma base sólida em programação e fornecendo exemplos práticos que facilitem a compreensão e o aprendizado. Queremos ajudar quem está começando a se familiarizar com o mundo do coding, mostrando aplicações reais e inspirando a explorar novas soluções tecnológicas.
+Este cantinho foi criado com a intenção de apresentar as inúmeras possibilidades que a tecnologia oferece nos dias de hoje. O objetivo é servir como um espaço de apoio para futuros desenvolvedores, oferecendo uma base em programação e fornecendo exemplos práticos que facilitem a compreensão, aprendizado, e ajuda para quem está começando a se familiarizar com o mundo do coding, mostrando aplicações reais e inspirando a explorar novas soluções tecnológicas.
 
 ## 🛠️ Tecnologias Utilizadas
 
