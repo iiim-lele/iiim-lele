@@ -12,7 +12,6 @@ Aqui, compartilho projetos e exemplos práticos voltados para quem está inician
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚡ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -33,18 +32,9 @@ Aqui, compartilho projetos e exemplos práticos voltados para quem está inician
 
 </div>
 
-
-## 📊 Dados
-
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SesiSenaiDA2025&layout=compact&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
-  **🌟 Desenvolvido por Leticia Gilioli de Souza**
+  **🌟 Desenvolvido por Leticia Gilioli de Souza juntamente as aulas no SENAI-SP**
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
